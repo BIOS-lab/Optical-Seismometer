@@ -1,0 +1,6 @@
+In this set the main components of this system that are as follows:
+
+Cantilever having a fixed mass at its end
+5 Volt 650 nm laser diode
+Wired mouse IC Optical sensor MX8733 DIP8L USB interface
+Raspberry Pi 3 Model B (for processing and displaying results)
